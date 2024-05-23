@@ -2,15 +2,22 @@ import sys
 from langdetect import detect
 from PyDictionary import PyDictionary
 import re
+import json
 
 class trt:
     def __init__(self,word=None):
         self.word=word
-        self.dictionary = self.load_translation_data('words.txt')
+        #self.dictionary = self.load_translation_data('words.txt')
+        self.dictionary = self.read_json('dictionary.json')
         if self.word:
             self.en_fa()
         
-        
+    def read_json(self,file_path):
+        with open('/users/mehr/downloads/dictionary.json') as f:
+            data = json.load(f)
+        dic = {item['English']: item['Farsi'] for item in data}
+        return dic
+    
     def load_translation_data(self,file_path):
         translation_data = {}
         try: 
@@ -42,6 +49,8 @@ class trt:
         translated_words = []
         for word in words:
             translated_word = self.dictionary.get(word, 'could not find')
+            # if ' ' in translated_word:
+            #     translated_word = f'{translated_word}'
             translated_words.append(translated_word)
         return ' '.join(translated_words)
     

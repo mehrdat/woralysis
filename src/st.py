@@ -22,5 +22,7 @@ if word:
 
     st.markdown(f"<h4 style='color:#FFFFA0'>{trans}</h4> ",unsafe_allow_html=True)
     #st.write(get_close_matches(word, list(dic.keys()), n=1, cutoff = 0.2))
+input=""
 input=st.text_input("Enter your word") 
-st.write(st.write(get_close_matches(input, list(dic.keys()), n=4, cutoff = 0.5)))
+if input:
+    st.write(get_close_matches(input, list(dic.keys()), n=4, cutoff = 0.5))

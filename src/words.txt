@@ -1,0 +1,146 @@
+hello: سلام
+goodbye: خداحافظ
+cat: گربه
+dog: سگ و گربه
+house: خانه
+car: ماشین
+tree: درخت
+flower: گل
+sun: خورشید
+moon: ماه
+book: کتاب
+pen: قلم
+computer: کامپیوتر
+music: موسیقی
+love: عشق
+friend: دوست
+family: خانواده
+food: غذا
+water: آب
+sky: آسمان
+red: قرمز
+blue: آبی
+green: سبز
+yellow: زرد
+black: سیاه
+white: سفید
+happy: خوشحال
+sad: غمگین
+funny: باحال
+serious: جدی
+work: کار
+play: بازی
+learn: یادگیری
+teach: تدریس
+sleep: خوابیدن
+eat: خوردن
+drink: نوشیدن
+smile: لبخند زدن
+laugh: خنده
+cry: گریه
+dream: رویا
+hope: امید
+believe: اعتقاد داشتن
+win: بردن
+lose: باختن
+start: شروع کردن
+finish: پایان دادن
+create: ایجاد کردن
+destroy: نابود کردن
+sunrise: طلوع آفتاب
+sunset: غروب آفتاب
+beach: ساحل
+mountain: کوه
+river: رودخانه
+lake: دریاچه
+forest: جنگل
+desert: بیابان
+city: شهر
+village: روستا
+road: جاده
+bridge: پل
+train: قطار
+plane: هواپیما
+ship: کشتی
+bicycle: دوچرخه
+motorcycle: موتورسیکلت
+bus: اتوبوس
+carriage: کاروان
+taxi: تاکسی
+school: مدرسه
+university: دانشگاه
+hospital: بیمارستان
+library: کتابخانه
+park: پارک
+garden: باغ
+zoo: باغ وحش
+museum: موزه
+theater: تئاتر
+cinema: سینما
+restaurant: رستوران
+cafe: کافه
+market: بازار
+store: فروشگاه
+shop: مغازه
+bank: بانک
+post office: اداره پست
+police station: ایستگاه پلیس
+fire station: ایستگاه آتش نشانی
+hospital: بیمارستان
+hotel: هتل
+guesthouse: مهمانسرا
+hostel: هاستل
+apartment: آپارتمان
+house: خانه
+building: ساختمان
+room: اتاق
+bedroom: اتاق خواب
+kitchen: آشپزخانه
+bathroom: حمام
+living room: اتاق نشیمن
+dining room: اتاق غذاخوری
+office: اداره
+garage: گاراژ
+gym: سالن ورزشی
+swimming pool: استخر
+playground: زمین بازی
+stadium: ورزشگاه
+football: فوتبال
+basketball: بسکتبال
+tennis: تنیس
+volleyball: والیبال
+baseball: بیسبال
+golf: گلف
+hockey: هاکی
+soccer: فوتبال
+cricket: کریکت
+musician: موسیقی‌دان
+singer: خواننده
+actor: بازیگر
+actress: بازیگر زن
+dancer: رقاص
+painter: نقاش
+writer: نویسنده
+poet: شاعر
+photographer: عکاس
+director: کارگردان
+engineer: مهندس
+doctor: دکتر
+nurse: پرستار
+teacher: معلم
+scientist: دانشمند
+programmer: برنامه‌نویس
+designer: طراح
+chef: آشپز
+athlete: ورزشکار
+pilot: خلبان
+friendship: دوستی
+love: عشق
+happiness: خوشبختی
+sadness: غم
+anger: عصبانیت
+fear: ترس
+surprise: تعجب
+excitement: هیجان
+joy: شادی
+peace: صلح
